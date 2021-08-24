@@ -6,5 +6,5 @@ I am Ashutosh Upadhyay.Hello all. :wave:
 
 :earth_asia: Lets connect to run world on Blockchain.
 
-<a href=”https://www.linkedin.com/in/engg-ji-a8b550166/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+ https://www.linkedin.com/in/engg-ji-a8b550166/ ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
